@@ -12,7 +12,9 @@
 
 ```sh
 git clone https://github.com/ikaushiksharma/Tailwind-Configuration.git
+
 cd Tailwind-Configuration
+
 npm i 
 ```
 
